@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A salutation and seasonable exhortation to children. By Dorcas Dole.</title>
+            <author>Dole, Dorcas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81606</idno>
+            <idno type="STC">Wing D1835A</idno>
+            <idno type="STC">ESTC R171803</idno>
+            <idno type="EEBO-CITATION">43663281</idno>
+            <idno type="OCLC">ocm 43663281</idno>
+            <idno type="VID">172032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2609:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A salutation and seasonable exhortation to children. By Dorcas Dole.</title>
+                  <author>Dole, Dorcas.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and Sold by T. Sowle, in White-Hart-Court, in Gracious-Street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Pastoral letters and charges.</term>
+               <term>Children's sermons --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:172032:1" rendition="simple:additions"/>
+A <hi>Salutation</hi> AND <hi>Seaſonable Exh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rta<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>n</hi> TO CHILDREN.</p>
+            <p>
+               <hi>By</hi> Dorcas Dole.</p>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court,</hi> in <hi>Gracious-Street,</hi> 1700.</p>
+            <pb facs="tcp:172032:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="3" facs="tcp:172032:2"/>
+            <head>A <hi>Salutation</hi> TO CHILDREN.</head>
+            <opener>
+               <salute>Dear and Tender Children,</salute>
+            </opener>
+            <p>WHO are of the Seed and Off-ſpring of the Righ<g ref="char:EOLhyphen"/>teous, a Salutation of my endear<g ref="char:EOLhyphen"/>ed Love is to you; and my Pray<g ref="char:EOLhyphen"/>ers to the God of Love, and Fa<g ref="char:EOLhyphen"/>ther of Mercy, are for you, that he may raiſe you up as living Monuments of his Mercies: And as you have been brought up in the Way of Truth, by your Pa<g ref="char:EOLhyphen"/>rents or Friends (that have a
+<pb n="4" facs="tcp:172032:3"/>
+Godly Care over you, to diſ<g ref="char:EOLhyphen"/>charge their Duty, in Love to God, and to your Immortal Souls) you may come into the Truth and Fear of God, that they may have cauſe to ſound out living Praiſes to the God of our Lives, on your behalf, for the Cry of the Righteous is to the Lord for their Children, as for their own Souls; and as they are near and dear unto them, ſo their Deſire to the Lord is, That they may be near and dear unto him, and that he would <hi>give them an In<g ref="char:EOLhyphen"/>heritance amongſt them that are San<g ref="char:EOLhyphen"/>ctified;</hi> which is far better than any outward Portion or Inheri<g ref="char:EOLhyphen"/>tance that they can leave you, and will ſtand by you when all outward Riches will fail you; for tho' you are Young and Ten<g ref="char:EOLhyphen"/>der in Years, you know not how
+<pb n="5" facs="tcp:172032:3"/>
+ſoon the Meſſenger of Death may come to call you; then there can be no reſiſting of that Power that Summoneth you in, and to Judg<g ref="char:EOLhyphen"/>ment calls you. Oh! therefore whilſt you have a Day, prize it, for Time is very precious to Old and Young; and the Redempti<g ref="char:EOLhyphen"/>on of the Soul is alſo precious. Oh! therefore, dear Children, <hi>Remember your Creator in the days of your Youth,</hi> and anſwer the End of the Lord, for which he made you, which was to Serve and Worſhip Him; for your Belie<g ref="char:EOLhyphen"/>ving Parents, that have born you, and ſuckled you, can have no greater Joy in you, than as <hi>Samuel</hi>'s Mother had, <hi>That ſhe had born and ſuckled a Child for the Lord; and as the Lord had freely given him unto her, ſhe freely gave him up to ſerve the Lord, in his Temple, all the days of his Life.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:172032:4"/>
+So dear Children, wait upon the Lord, that your Strength may be renewed in Him, and that you may feel the ſame Pow<g ref="char:EOLhyphen"/>er at work in you, as ſanctified <hi>Samuel,</hi> that you may be ſanctifi<g ref="char:EOLhyphen"/>ed Veſſels to the Lord, and that <hi>your Bodies may be Temples for the Holy Ghoſt to dwell in.</hi>
+            </p>
+            <p>So the Deſire of my Soul to the Lord for you is, That as you have begun a Teſtimony for the Lord, in keeping up the Meet<g ref="char:EOLhyphen"/>ing, that you may hold out to the end, and not fear what Man can do unto you; for the Lord's Care is over you: And as you Meet in his Fear, his over-ſha<g ref="char:EOLhyphen"/>dowing Power will be amongſt you, tho' you are but little Children; he will ſuffer you to come unto Him, that <hi>out of the Mouths of Babes and Sucklings he</hi>
+               <pb n="7" facs="tcp:172032:4"/>
+               <hi>ordains Strength,</hi> that he may <hi>per<g ref="char:EOLhyphen"/>fect his Praiſe;</hi> and he will carry his Lambs in his Arms, and gent<g ref="char:EOLhyphen"/>ly lead thoſe that are Young.</p>
+            <p>So, dear Children, keep to the God of Strength, and he will be your Strength; tho' you are Weak, he is Strong, and able to make you <hi>more than Conquerors, through him that hath loved you:</hi> And as you keep to the Lord, and your Faith ſtands in his Power, the Enemy within nor without ſhall never conquer you; but ye ſhall be like the little Children in the Temple, who cryed <hi>Ho<g ref="char:EOLhyphen"/>ſanna to the Son of</hi> David; and they feared not, tho' the <hi>Chief Prieſts</hi> and <hi>Scribes</hi> were ſore of<g ref="char:EOLhyphen"/>fended with them: And as it was in that day, ſo it is now, not many Mighty, nor of the Noble Men of the Earth, that
+<pb n="8" facs="tcp:172032:5"/>
+believed in his low Appearance, becauſe he came too low for them; they deſpiſed him as the <hi>Carpenter</hi>'s <hi>Son,</hi> and ſaid, <hi>That he was one that they knew from whence he came;</hi> but they did not; for to them his Viſage was more marred than any Mans, and they could ſee no Comelineſs in him, who ſaid to them, <hi>If they died in their Sins, whither he went, they could not come.</hi>
+            </p>
+            <p>So bleſſed be the Name of the Lord for evermore, that hath hid theſe things from the <hi>Wiſe and Prudent,</hi> and <hi>hath revealed them un<g ref="char:EOLhyphen"/>to Babes.</hi> So, dear Hearts, let us forever wait upon the Lord, and hearken to Wiſdom's Voice, that we may be kept low in his Fear; for, <hi>The Fear of the Lord is the be<g ref="char:EOLhyphen"/>ginning of Wiſdom; and to depart from Evil, that is a good <g ref="char:V">Ʋ</g>nderſtand<g ref="char:EOLhyphen"/>ing.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:172032:5"/>
+So, Dear and Well-beloved, the deſire of my Soul is, That we may paſs the Time of our ſojourning here with Fear, and that we may keep to the Un<g ref="char:EOLhyphen"/>erring Way, <hi>that a Wayfaring Man, tho' a Fool, cannot Err there<g ref="char:EOLhyphen"/>in:</hi> And as we keep to the <hi>Light,</hi> and bring our Deeds to it, they ſhall be made manifeſt whether they are wrought in God or no; and ſo we ſhall come to know that living Faith that gives Vi<g ref="char:EOLhyphen"/>ctory over the World; for, <hi>With<g ref="char:EOLhyphen"/>out Faith it is impoſſible to pleaſe God; for the Juſt lives by Faith.</hi> So keep to the juſt Principle of Life, that God hath placed in you, to Redeem your Souls from Death, that ſo whilſt you are in the World, you may know the pre<g ref="char:EOLhyphen"/>ſerving Power, that keeps his Children from the Evil of the World.</p>
+            <p>
+               <pb n="10" facs="tcp:172032:6"/>
+And there is one thing more that lies upon me to you Diſobe<g ref="char:EOLhyphen"/>dient Children, that live not in an heavenly Subjection to the Lord, and to your Parents; Ceaſe to grieve the Spirit of the Lord, which is given to you to profit withal: And ceaſe to grieve your honeſt Parents, and do not do as <hi>Abſalom</hi> did, who cauſed his Father to lament over him with a ſad Lamentation, be<g ref="char:EOLhyphen"/>cauſe he died in Diſobedience a<g ref="char:EOLhyphen"/>gainſt the Lord and his Father; and he could not be Comforted in his Death, as he was in his other Son; <hi>When he heard of his Death, he aroſe, and waſhed, and a<g ref="char:EOLhyphen"/>nointed himſelf, and eat Bread, and ſatisfied himſelf, in that he ſhould go to the Innocent Child, tho' it ſhould never return to him.</hi>
+            </p>
+            <p>
+               <pb n="11" facs="tcp:172032:6"/>
+So dear Children, Watch a<g ref="char:EOLhyphen"/>gainſt that diſobedient Nature, which keeps you in Diſobedience to the Lord, and to your Pa<g ref="char:EOLhyphen"/>rents; and as you wait upon the Lord in his Fear, you ſhall know the mighty Power of the Lord to work out that Nature in you that is ſubject to Vanity, and to ſet up his Heavenly Government in you, that you may order your Converſations aright in the ſight of God, and all Men: And then, when you are gathered together to wait upon the Lord, and can<g ref="char:EOLhyphen"/>not be content with the Form of Godlineſs without the Power, nor with a bare Formality of coming to Meeting, the God of Power and Life will appear a<g ref="char:EOLhyphen"/>mongſt you, and his Preſence will be in the midſt of you; and tho' there be no Words ſpoken
+<pb n="12" facs="tcp:172032:7"/>
+amongſt you, yet keep to the Word of God, which is <hi>Quick and Powerful,</hi> that That may dwell plentifully amongſt you, and for ever preſerve you.</p>
+            <p>So dear Children, preſs for<g ref="char:EOLhyphen"/>ward, that you may be Confirm<g ref="char:EOLhyphen"/>ed and Eſtabliſhed in the Faith that once was delivered to the Saints, and that you may be made able to contend earneſtly for it, and then nothing ſhall move you; yea, tho' the Earth may be moved, and the Powers of Darkneſs ſhaken, yet you ſhall have a ſure Habitation in the Lord, and be gathered into the Ark of the Covenant, where you ſhall be hid with the Lord, while he is raining down in his Diſ<g ref="char:EOLhyphen"/>pleaſure, Plagues upon the Wick<g ref="char:EOLhyphen"/>ed; and tho' they may call to the Mountains and Rocks to fall on
+<pb n="13" facs="tcp:172032:7"/>
+them, to hide them from the Fierceneſs of the Wrath of God, yet they ſhall not ſave them, nor ſhelter them from what he hath Decreed to bring upon them: But thoſe that have an Intereſt in Chriſt, have no need to fear whe<g ref="char:EOLhyphen"/>ther they Dye or Live, as to this outward Tabernacle; for, <hi>to Dye is Gain, and to Live is Chriſt;</hi> ſo whether we Live or Dye, we are the Lord's.</p>
+            <p>So dear Children, I commit you to God, with my own Soul, deſiring him, that he would bring you, and eſtabliſh, and preſerve you, and me, in his Unchangeable Truth, which never alters.</p>
+            <closer>
+               <dateline>From <hi>Bridewel,</hi> the Place of my Confinement for the Te<g ref="char:EOLhyphen"/>ſtimony of Truth, as it is in Jeſus, <date>the 30th of the 4th Month, 1682.</date>
+               </dateline>
+               <signed>Your Loving Friend, Dorcas Dole.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <pb n="14" facs="tcp:172032:8"/>
+            <head>Poſtſcript.</head>
+            <p>THis was Written to the Children who kept up the Meeting, at the Meeting-Houſe-Door, in the open Streets, in <hi>Bri<g ref="char:EOLhyphen"/>ſtol,</hi> at that time when Friends there was generally in Priſon for their Teſtimony to Truth; and now Re-printed for an Incou<g ref="char:EOLhyphen"/>ragement to them to live in Faith<g ref="char:EOLhyphen"/>fulneſs, and in the Fear of God.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:172032:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
